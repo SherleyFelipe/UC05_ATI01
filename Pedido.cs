@@ -8,36 +8,23 @@ namespace ATI1_Sherley_Lopes_Felipe
     public class Pedido
     {
 
-        public static List<ItemPedido> pedidos;
-
-
-        static Pedido()
-        {
-            pedidos = new List<ItemPedido>();
-        }
+        private List<ItemPedido> pedidos = new List<ItemPedido>();
+        
 
         public void Inserir(ItemPedido pedido)
         {
-
             pedidos.Add(pedido);
-
         }
-
-        public List<ItemPedido> Listar()
-        {
-            return pedidos;
-        }
-
 
         public double TotalPedido()
         {
 
             double total = 0;
 
-            foreach (ItemPedido p in pedidos)
+            for (int i=0; i < pedidos.Count; i++)
             {
             
-                total = total + (p.valor_unitario * p.quantidade);
+                total = total + pedidos[i].valor_unitario * pedidos[i].quantidade;
             }
             return total;
         }

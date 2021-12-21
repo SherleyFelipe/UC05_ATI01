@@ -11,3 +11,16 @@ C:\Users\sherl\Documents\1Senac\UC05\ATI1_Sherley Lopes Felipe\obj\Debug\netcore
 C:\Users\sherl\Documents\1Senac\UC05\ATI1_Sherley Lopes Felipe\obj\Debug\netcoreapp3.1\ATI1_Sherley Lopes Felipe.dll
 C:\Users\sherl\Documents\1Senac\UC05\ATI1_Sherley Lopes Felipe\obj\Debug\netcoreapp3.1\ATI1_Sherley Lopes Felipe.pdb
 C:\Users\sherl\Documents\1Senac\UC05\ATI1_Sherley Lopes Felipe\obj\Debug\netcoreapp3.1\ATI1_Sherley Lopes Felipe.genruntimeconfig.cache
+C:\estudosDev\ajudas\ajuda01_Senac_Uc05_At01\UC05_ATI01\obj\Debug\netcoreapp3.1\ATI1_Sherley Lopes Felipe.csprojAssemblyReference.cache
+C:\estudosDev\ajudas\ajuda01_Senac_Uc05_At01\UC05_ATI01\obj\Debug\netcoreapp3.1\ATI1_Sherley Lopes Felipe.AssemblyInfoInputs.cache
+C:\estudosDev\ajudas\ajuda01_Senac_Uc05_At01\UC05_ATI01\obj\Debug\netcoreapp3.1\ATI1_Sherley Lopes Felipe.AssemblyInfo.cs
+C:\estudosDev\ajudas\ajuda01_Senac_Uc05_At01\UC05_ATI01\obj\Debug\netcoreapp3.1\ATI1_Sherley Lopes Felipe.csproj.CoreCompileInputs.cache
+C:\estudosDev\ajudas\ajuda01_Senac_Uc05_At01\UC05_ATI01\obj\Debug\netcoreapp3.1\ATI1_Sherley Lopes Felipe.dll
+C:\estudosDev\ajudas\ajuda01_Senac_Uc05_At01\UC05_ATI01\obj\Debug\netcoreapp3.1\ATI1_Sherley Lopes Felipe.pdb
+C:\estudosDev\ajudas\ajuda01_Senac_Uc05_At01\UC05_ATI01\bin\Debug\netcoreapp3.1\ATI1_Sherley Lopes Felipe.exe
+C:\estudosDev\ajudas\ajuda01_Senac_Uc05_At01\UC05_ATI01\bin\Debug\netcoreapp3.1\ATI1_Sherley Lopes Felipe.deps.json
+C:\estudosDev\ajudas\ajuda01_Senac_Uc05_At01\UC05_ATI01\bin\Debug\netcoreapp3.1\ATI1_Sherley Lopes Felipe.runtimeconfig.json
+C:\estudosDev\ajudas\ajuda01_Senac_Uc05_At01\UC05_ATI01\bin\Debug\netcoreapp3.1\ATI1_Sherley Lopes Felipe.runtimeconfig.dev.json
+C:\estudosDev\ajudas\ajuda01_Senac_Uc05_At01\UC05_ATI01\bin\Debug\netcoreapp3.1\ATI1_Sherley Lopes Felipe.dll
+C:\estudosDev\ajudas\ajuda01_Senac_Uc05_At01\UC05_ATI01\bin\Debug\netcoreapp3.1\ATI1_Sherley Lopes Felipe.pdb
+C:\estudosDev\ajudas\ajuda01_Senac_Uc05_At01\UC05_ATI01\obj\Debug\netcoreapp3.1\ATI1_Sherley Lopes Felipe.genruntimeconfig.cache
