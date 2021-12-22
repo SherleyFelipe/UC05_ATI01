@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\estudosDev\\ajudas\\ajuda01_Senac_Uc05_At01\\UC05_ATI01\\ATI1_Sherley Lopes Felipe.csproj": {}
+    "C:\\estudosDev\\contribuicoes\\ajuda01_Senac_Uc05_At01\\UC05_ATI01\\ATI1_Sherley Lopes Felipe.csproj": {}
   },
   "projects": {
-    "C:\\estudosDev\\ajudas\\ajuda01_Senac_Uc05_At01\\UC05_ATI01\\ATI1_Sherley Lopes Felipe.csproj": {
+    "C:\\estudosDev\\contribuicoes\\ajuda01_Senac_Uc05_At01\\UC05_ATI01\\ATI1_Sherley Lopes Felipe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\estudosDev\\ajudas\\ajuda01_Senac_Uc05_At01\\UC05_ATI01\\ATI1_Sherley Lopes Felipe.csproj",
+        "projectUniqueName": "C:\\estudosDev\\contribuicoes\\ajuda01_Senac_Uc05_At01\\UC05_ATI01\\ATI1_Sherley Lopes Felipe.csproj",
         "projectName": "ATI1_Sherley Lopes Felipe",
-        "projectPath": "C:\\estudosDev\\ajudas\\ajuda01_Senac_Uc05_At01\\UC05_ATI01\\ATI1_Sherley Lopes Felipe.csproj",
+        "projectPath": "C:\\estudosDev\\contribuicoes\\ajuda01_Senac_Uc05_At01\\UC05_ATI01\\ATI1_Sherley Lopes Felipe.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\estudosDev\\ajudas\\ajuda01_Senac_Uc05_At01\\UC05_ATI01\\obj\\",
+        "outputPath": "C:\\estudosDev\\contribuicoes\\ajuda01_Senac_Uc05_At01\\UC05_ATI01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
